@@ -1,6 +1,3 @@
-```diff
-- Please find above an extended version of the paper including all missing proofs and the empirical results.
-```
 ## Environment Requirement
 
 1. jdk 1.8
