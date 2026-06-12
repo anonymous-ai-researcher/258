@@ -18,7 +18,7 @@ Datasets **Oxford-ISG** and **BioPortal**  are in compressed package **test_forg
 ## Compute Role Forgetting
 
 
-The code can be used to compute the solution of strong role forgetting for $\mathcal{ALCQ}$ ontologies. There is a code template showing how to compute the forgetting result.
+The code can be used to compute the solution of strong role forgetting for $\mathcal{ALCQI}$ ontologies. There is a code template showing how to compute the forgetting result.
 
 ```java
 package evaluation;
