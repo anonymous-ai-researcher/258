@@ -13,7 +13,7 @@
 
 ## 📄 Extended Version with Full Proofs
 
-> **The extended version of this paper, including all omitted proofs, additional experimental analyses, and supplementary material, is available in this repository:**
+> **The extended version of this paper, including all omitted proofs, is available in this repository:**
 > 
 > 📥 **[`extended-version.pdf`](./extended-version.pdf)**
 > 
